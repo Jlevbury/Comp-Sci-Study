@@ -521,4 +521,3 @@ By understanding functional execution contexts, you can better understand what i
 
 Knowing how functional execution contexts work is particularly important when you start dealing with asynchronous JavaScript, because callbacks and promises can create new execution contexts that affect the flow of your code.
 
-
