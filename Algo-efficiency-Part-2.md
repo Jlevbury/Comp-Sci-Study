@@ -1,8 +1,15 @@
 # Comp-Sci-Study
 Reference material for Algorithm efficiency and measurement
 ## Overview
+## Useful Links 
+
+https://www.bigocheatsheet.com/
+
+https://www.cs.usfca.edu/~galles/visualization/Search.html
 
 **1. Big O notation**
+
+
 
 Big O notation is a way to convey how well a computer algorithm scales as the number of data it operates on increases. It provides an upper bound of the complexity in the worst-case scenario, helping to quantify performance as the input size becomes extremely large.
 
